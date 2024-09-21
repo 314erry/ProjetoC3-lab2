@@ -28,7 +28,7 @@ Todas as informações são salvas em arquivos `.txt`, garantindo a persistênci
 ## Como Executar o Sistema
 
 Para utilizar o sistema, siga os seguintes passos:
-1. Abra o projeto em uma IDE de sua preferência.
+1. Abra o projeto em uma IDE de sua preferência (recomendamos Visual Studio Code).
 2. Execute a aplicação a partir da classe principal do projeto.
 3. Siga as instruções fornecidas no sistema para realizar o login e usar as funcionalidades.
 
